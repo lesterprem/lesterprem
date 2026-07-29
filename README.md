@@ -11,4 +11,4 @@
 ### Currently
 - Working at Wallbox. Previously, roles at tech companies like Glovo and, Uber.
 - Learning FastAI and agentic workflows.
-- Building hobby projects with NextJS
+- Building agents for creators / webapp on NextJS
