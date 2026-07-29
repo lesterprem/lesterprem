@@ -12,5 +12,14 @@
 - Learning FastAI and agent building (smolagents, langgraph).
 
 ---
-[X](https://x.com/thelesyouknow)
-[LinkedIn](https://linkedin.com/in/lesternoronha)
+<p align="left">
+  <a href="https://x.com/thelesyouknow">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/lesternoronha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64" alt="LinkedIn" />
+  </a>
+  <a href="https://lesternoronha.me">
+    <img src="https://img.shields.io/badge/lester-orange" alt="Website" />
+  </a>
+</p>
