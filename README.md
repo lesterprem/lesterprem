@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Lester 🏠
 
-<!--
-**lesterprem/lesterprem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ops + pseudo-techie** working at software companies.
 
-Here are some ideas to get you started:
+- 🧩 Expertise: RevOps, Pricing, Analytics, Product Ops
+- 🛠️ Skills: Python, ReactJS, SQL, Fast.ai
+- 🌐 [lesternoronha.me](https://lesternoronha.me) · [@thelesyouknow](https://x.com/thelesyouknow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently
+- Working at Wallbox. Previously, roles at tech companies like Glovo and, Uber.
+- Learning FastAI and agentic workflows.
+- Building hobby projects with NextJS
