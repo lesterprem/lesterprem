@@ -7,7 +7,7 @@
 ---
 
 ### Currently
-- Working building revenue engine at Wallbox. Previously, roles at tech companies like Glovo and, Uber.
+- Building revenue engine at Wallbox. Previously, roles at tech companies like Glovo and, Uber.
 - Building creator agent/webapp on NextJS.
 - FastAI and agents (smolagents, langgraph).
 
